@@ -6,8 +6,6 @@ This project predicts house prices using a **Linear Regression Machine Learning 
 
 The goal is to analyze housing-related features and estimate the median house value based on factors such as income, house age, number of rooms, population, and geographical location.
 
-This project was completed as part of the **Syntecxhub Virtual Internship Program**.
-
  🚀 Features
 
 * Data Loading and Exploration
@@ -162,10 +160,7 @@ This model can be loaded later without retraining.
 * Git & GitHub Workflow
 
 👩‍💻 Author
-
 **Shivanshi Singh**
-
-Machine Learning Intern – Syntecxhub
 
 GitHub: https://github.com/Shivanshi963
 
@@ -173,4 +168,4 @@ GitHub: https://github.com/Shivanshi963
 
 * Scikit-Learn
 * California Housing Dataset
-* Syntecxhub Virtual Internship Program
+
